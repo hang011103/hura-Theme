@@ -1,0 +1,1 @@
+直接把hura文件夹和hura.css复制到TYpora的主题文件夹里边就好
